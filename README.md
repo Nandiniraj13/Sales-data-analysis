@@ -1,6 +1,6 @@
 # Sales-data-analysis
 In this project, we will perform an analysis of Diwali sales data using Python.
-Performed data cleaning and manipulation
+Performed data cleaning and manipulation.
 
 Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries.
 
